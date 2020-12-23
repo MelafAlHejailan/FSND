@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: pip-date
+Version: 1.0.3
+Summary: Show the installation/modification times of all your pip packages and other tools
+Home-page: https://github.com/E3V3A/pip-date/
+Author: E:V:A
+Author-email: xdae3v3a@gmail.com
+License: LICENSE.txt
+Project-URL: Bug Reports, https://github.com/E3V3A/pip-date/issues
+Keywords: pip date package management setuptools wheel egg stat os
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development :: Version Control
+Classifier: Topic :: System :: Software Distribution
+Classifier: Topic :: System :: Installation/Setup
+Requires-Python: >=3
+Description-Content-Type: text/plain
+Requires-Dist: requests
+
+A light CLI tool-set to show the installation or modification times of all your pip packages.
+
+
